@@ -1,2 +1,0 @@
-WebView textSize:16.00 style:0 bundle:[display="", htmlTag="#document"]
-++CheckBox textSize:16.00 style:0 bundle:[aria-braillelabel="aria braille label", display="block", htmlTag="div", role="checkbox"]
